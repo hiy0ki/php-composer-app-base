@@ -15,3 +15,6 @@
 - 名前空間の指定は適当。その時々で。
 
 
+## todo
+[ ] PHPUnitの設定
+[ ] Makefileにtestコマンドの追加
