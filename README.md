@@ -16,5 +16,5 @@
 
 
 ## todo
-[ ] PHPUnitの設定
-[ ] Makefileにtestコマンドの追加
+- [ ] PHPUnitの設定
+- [ ] Makefileにtestコマンドの追加
